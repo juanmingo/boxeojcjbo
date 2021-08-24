@@ -1,20 +1,20 @@
 .navigation {
-    background-color: $colorBlack;
+    background-color: $colorSilverChalice;
     font-family: $fontRoboto;
     font-size: $fontSizeMenu;
     & a {
         color: $colorWhite;
     }
     & .active a {
-        color: $colorYellow;
+        color: $colorBloodRed !important;
     }
 }
 
 .navbar-brand img {
-    height: 60px;
+    //height: 60px;
 }
 
 .navbar {
-    padding-bottom: 0px;
-    padding-top: 0px;
+    //padding-bottom: 0px;
+    //padding-top: 0px;
 }

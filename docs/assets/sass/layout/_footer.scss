@@ -1,12 +1,13 @@
 .footer {
-    background-color: $colorBlack;
+    background-color: $colorBloodRed;
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
 .footer-icon {
-    padding-top: 15px;
+    padding-top: 70px;
+    float: right;
 }
 
 .footer p {
@@ -14,10 +15,12 @@
     font-size: 12px;
     font-family: $fontRoboto;
     font-size: $fontSizeFooter;
-    background-color: $colorBlack;
+    text-align: center;
+    background-color: $colorBloodRed;
     color: $colorWhite;
 }
 
 .footer img {
-    width: 100px;
+    width: 250px;
+    float: left;
 }

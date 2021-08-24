@@ -1,0 +1,29 @@
+/* Abstract */
+
+@import 'abstract/variables';
+@import 'abstract/mixins';
+
+/* Vendors */
+
+@import "../node_modules/bootstrap/bootstrap";
+
+/* Base */
+
+@import 'base/base';
+//@import 'base/resets';
+@import 'base/typography';
+
+/* Components */
+
+//@import 'components/buttons';
+
+/* Layout */
+
+@import 'layout/navigation';
+@import 'layout/pagetitulo';
+@import 'layout/capsulas';
+@import 'layout/shop';
+@import 'layout/galeria';
+@import 'layout/contacto';
+@import 'layout/partner';
+@import 'layout/footer';

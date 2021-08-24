@@ -1,0 +1,51 @@
+.shop {
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.shop hr {
+    background-color: $colorYellow;
+}
+
+.product-image img {
+    display: block;
+    width: 100%;
+}
+
+.product-desc {
+    text-align: center;
+    padding: 10px;
+}
+
+.product-title {
+    margin-bottom: 7px;
+}
+
+.product-title h3 {
+    margin: 0;
+    font-size: 16px;
+}
+
+.product-title h3 a,
+.single-product .product-title h2 a {
+    color: $colorWhite;
+}
+
+.product-price {
+    font-size: 16px;
+    font-weight: 100;
+    color: $colorYellow;
+    margin-bottom: 4px;
+}
+
+.product-price del {
+    font-weight: 400;
+    font-size: 90%;
+    color: $colorGris;
+}
+
+.product-price ins {
+    text-decoration: none;
+    color: $colorYellow;
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/layout/partner.scss"
+    ],
+    "names": [],
+    "file": "partner.min.css"
+}

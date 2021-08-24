@@ -1,0 +1,23 @@
+.footer {
+    background-color: $colorBlack;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer-icon {
+    padding-top: 15px;
+}
+
+.footer p {
+    padding-top: 25px;
+    font-size: 12px;
+    font-family: $fontRoboto;
+    font-size: $fontSizeFooter;
+    background-color: $colorBlack;
+    color: $colorWhite;
+}
+
+.footer img {
+    width: 100px;
+}

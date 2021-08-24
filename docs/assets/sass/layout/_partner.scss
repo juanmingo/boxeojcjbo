@@ -1,0 +1,58 @@
+.partner {
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: $colorWhite;
+}
+
+.partner hr {
+    background-color: $colorYellow;
+}
+
+#tMas th {
+    color: $colorWhite;
+    background-color: black;
+}
+
+#tMas tr {
+    background-color: $colorMarron !important;
+    color: $colorWhite;
+    text-align: center;
+}
+
+#tFem th {
+    color: $colorWhite;
+    background-color: black;
+}
+
+#tFem tr {
+    background-color: $colorMarron !important;
+    color: $colorWhite;
+    text-align: center;
+}
+
+p.boxeo {
+    font-style: normal;
+    font-weight: bold;
+    font-size: large;
+    font-family: $fontRoboto;
+    text-align: justify;
+    text-transform: none;
+    line-height: normal;
+    text-decoration: colorBlack;
+    letter-spacing: normal;
+    word-spacing: normal;
+    color: $colorWhite;
+}
+
+p.reglas {
+    font-style: normal;
+    font-size: large;
+    font-family: $fontRoboto;
+    text-align: justify;
+    line-height: normal;
+    text-decoration: $colorBlack;
+    letter-spacing: normal;
+    word-spacing: initial;
+    color: $colorWhite;
+}

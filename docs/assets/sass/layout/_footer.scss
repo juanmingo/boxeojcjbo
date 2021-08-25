@@ -1,26 +1,7 @@
 .footer {
     background-color: $colorBloodRed;
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 
-.footer-icon {
-    padding-top: 70px;
-    float: right;
-}
-
-.footer p {
-    padding-top: 25px;
-    font-size: 12px;
-    font-family: $fontRoboto;
-    font-size: $fontSizeFooter;
-    text-align: center;
-    background-color: $colorBloodRed;
-    color: $colorWhite;
-}
-
-.footer img {
-    width: 250px;
-    float: left;
+.footer h2 {
+    margin-top: 10px;
 }

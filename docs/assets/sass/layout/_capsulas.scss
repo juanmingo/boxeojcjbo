@@ -1,3 +1,25 @@
 .capsulas {
     margin-top: 100px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 50px;
+}
+
+.capsulas p {
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center !important;
+    color: $colorRubyRed;
+}
+
+.capsula {
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+.capsulas span {
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: center !important;
+    color: $colorCarnelian;
 }

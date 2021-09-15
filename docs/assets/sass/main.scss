@@ -13,17 +13,15 @@
 //@import 'base/resets';
 @import 'base/typography';
 
-/* Components */
-
-//@import 'components/buttons';
-
 /* Layout */
 
+@import 'layout/inicio';
 @import 'layout/navigation';
 //@import 'layout/pagetitulo';
 @import 'layout/capsulas';
+@import 'layout/horarios';
 //@import 'layout/shop';
-//@import 'layout/galeria';
+@import 'layout/galeria';
 @import 'layout/direccion';
 //@import 'layout/partner';
 @import 'layout/footer';

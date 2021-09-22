@@ -2,6 +2,7 @@
     background-color: $colorSilverChalice;
     font-family: $fontRoboto;
     font-size: $fontSizeMenu;
+    overflow-x: hidden;
     & a {
         color: $colorWhite;
     }
